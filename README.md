@@ -2,6 +2,8 @@
 - 👀 I’m interested in code
 - 🌱 learning C++ and golang
 - 📫 e-mail : 1539694343@qq.com
+**************************
+* is a doc file
 
 **************************
 * 2 years programming experience, engaged in C++ server development in xiamen.
